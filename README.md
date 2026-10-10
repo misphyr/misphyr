@@ -8,7 +8,7 @@
   <br/><br/>
 
   <a href="https://misphyr.com"><img src="https://img.shields.io/badge/misphyr.com-0b0b10?style=for-the-badge&logo=googlechrome&logoColor=a78bfa"/></a>
-  <a href="https://tools.misphyr.com"><img src="https://img.shields.io/badge/misphyr.tools-0b0b10?style=for-the-badge&logo=hackthebox&logoColor=a78bfa"/></a>
+  <a href="https://tools.misphyr.com"><img src="https://img.shields.io/badge/tools.misphyr.com-0b0b10?style=for-the-badge&logo=hackthebox&logoColor=a78bfa"/></a>
   <a href="https://www.linkedin.com/in/felipe-lilli"><img src="https://img.shields.io/badge/LinkedIn-0b0b10?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/></a>
   <a href="mailto:Felipe@wvieira.com.br"><img src="https://img.shields.io/badge/E--mail-0b0b10?style=for-the-badge&logo=gmail&logoColor=a78bfa"/></a>
 </div>
@@ -24,7 +24,7 @@ const misphyr = {
   trabalho: "Analista de Testes @ Integrativa",
   foco: ["Testes E2E", "Automação", "Qualidade de software"],
   formacao: "Análise e Desenvolvimento de Sistemas — IFSP",
-  nasHorasVagas: ["sites", "apps", "ferramentas em misphyr.tools"],
+  nasHorasVagas: ["sites", "apps"],
   idiomas: ["Português", "Inglês (avançado)"],
 };
 ```
