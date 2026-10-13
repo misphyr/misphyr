@@ -15,7 +15,7 @@
 
 ---
 
-### 👋 Sobre mim
+### Sobre mim
 
 ```ts
 const misphyr = {
@@ -33,7 +33,7 @@ const misphyr = {
 - ⚙️ Testes de API e carga com **Postman** e **JMeter**, sempre de olho em CI
 - 🛠️ Fora do trabalho, desenvolvo projetos pessoais com **Next.js**, **React** e **Node**
 
-### 🧰 Stack
+### Stack
 
 **Testes e qualidade**
 
@@ -51,7 +51,7 @@ const misphyr = {
 
 <a href="#"><img src="https://skillicons.dev/icons?i=java,cpp,figma,git&theme=dark"/></a>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=misphyr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=13131b&title_color=a78bfa&icon_color=a78bfa&text_color=ececf1&ring_color=a78bfa"/>
